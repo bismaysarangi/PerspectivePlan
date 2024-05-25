@@ -1,0 +1,455 @@
+[
+    {
+        "name": "Task directive from  customer",
+        "children": [
+            {
+                "name": "Task directive as per letter",
+                "responsibility": "",
+                "rank": 11
+            },
+            {
+                "name": "Task",
+                "responsibility": "DGM(CS)AGM(OH)",
+                "rank": 12
+            },
+            {
+                "name": "RRT",
+                "responsibility": "",
+                "rank": 13,
+                "children": [
+                    {
+                        "name": "RRT Planned in 2024-25",
+                        "responsibility": "DGM(CS),AGM(OH)"
+                    }
+                ]
+            },
+            {
+                "name": "RMSO",
+                "responsibility": "",
+                "rank": 14,
+                "children": [
+                    {
+                        "name": "RMSO-Plan 2024-25",
+                        "responsibility": "DGM(CS)"
+                    }
+                ]
+            },
+            {
+                "name": "AOG",
+                "responsibility": "",
+                "rank": 15,
+                "children": [
+                    {
+                        "name": "RMS PDC Expired",
+                        "responsibility": ""
+                    }
+                ]
+            },
+            {
+                "name": "TBL plan 2024-25",
+                "responsibility": "DGM(CS)DGM(prod)AGM(OH)",
+                "rank": 16
+            },
+            {
+                "name": "Senior officer visit to IAF base & AIR HQ",
+                "responsibility": "",
+                "rank": 17
+            },
+            {
+                "name": "Senior officer visit to AIR HQ",
+                "responsibility": "To be plan",
+                "rank": 47
+            },
+            {
+                "name": "Field Service Representatives 2024-2025",
+                "responsibility": "DGM(CS)",
+                "rank": 18
+            },
+            {
+                "name": "FRM Point",
+                "responsibility": "",
+                "rank": 19,
+                "children": [
+                    {
+                        "name": "MiG-21 BISON",
+                        "responsibility": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Engine production",
+        "rank": 2,
+        "children": [
+            {
+                "name": "Production plan approval",
+                "responsibility": "",
+                "rank": 21
+            },
+            {
+                "name": "QUARTER WISE ENGINE PRODUCTION PLAN",
+                "responsibility": "",
+                "rank": 22
+            },
+            {
+                "name": "PRODUCTION PLAN OF ROTABLES OVERHAULING",
+                "responsibility": "",
+                "rank": 23
+            },
+            {
+                "name": "R-25,RD33,KSA. TG-16M Shop Requirement",
+                "responsibility": "",
+                "rank": 24,
+                "children": [
+                    {
+                        "name": "Summary",
+                        "responsibility": "",
+                        "children": [
+                            {
+                                "name": "Blade shop",
+                                "responsibility": "",
+                                "rank": "a"
+                            },
+                            {
+                                "name": "Compresser shop",
+                                "responsibility": "",
+                                "rank": "b"
+                            },
+                            {
+                                "name": "Fuel & small part",
+                                "responsibility": "",
+                                "rank": "c"
+                            },
+                            {
+                                "name": "Gear Shop",
+                                "responsibility": "",
+                                "rank": "d"
+                            },
+                            {
+                                "name": "Heat treatment shop",
+                                "responsibility": "",
+                                "rank": "e"
+                            },
+                            {
+                                "name": "Sheet metal shop",
+                                "responsibility": "",
+                                "rank": "f"
+                            },
+                            {
+                                "name": "Turbine shop",
+                                "responsibility": "",
+                                "rank": "g"
+                            },
+                            {
+                                "name": "KSA non mandatory for 2024-25 req",
+                                "responsibility": "",
+                                "rank": "h"
+                            },
+                            {
+                                "name": "RD33 non mandatory Requirment",
+                                "responsibility": "",
+                                "rank": "i"
+                            },
+                            {
+                                "name": "TG-16 non mandatory Requirment",
+                                "responsibility": "",
+                                "rank": "j"
+                            },
+                            {
+                                "name": "Sales of Foundry & Forge",
+                                "responsibility": "",
+                                "rank": "k"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "IMM",
+        "rank": 3,
+        "children": [
+            {
+                "name": "Material control",
+                "responsibility": "",
+                "rank": 31
+            },
+            {
+                "name": "Purchase",
+                "responsibility": "",
+                "rank": 32
+            },
+            {
+                "name": "Store",
+                "responsibility": "",
+                "rank": 33
+            }
+        ]
+    },
+    {
+        "name": "Sales plan",
+        "rank": 4,
+        "children": [
+            {
+                "name": "PY2024-25,2025-26",
+                "responsibility": ""
+            }
+        ]
+    },
+    {
+        "name": "Quality",
+        "rank": 5,
+        "children": [
+            {
+                "name": "Procurement of Automatic Sealing ring inspection",
+                "responsibility": "Sri Jk Nayak, CM(QM)",
+                "rank": 511
+            },
+            {
+                "name": "Online data logging in painting shop",
+                "responsibility": "Sri Raja Mallia, CM(Mfg)",
+                "rank": 512
+            }
+        ]
+    },
+    {
+        "name": "Foundry & Forge - Quality",
+        "rank": 52,
+        "children": [
+            {
+                "name": "Procurement of ultrasonic inspection machine for metallic bars",
+                "responsibility": "Sri GD Dariyani, CM(QFF)",
+                "rank": 521
+            },
+            {
+                "name": "Introduction of Self verificaion Operators in Forge & Foundry",
+                "responsibility": [
+                    {
+                        "name": "Sri AK Saran, CM(FY)"
+                    },
+                    {
+                        "name": "Sri S Samantray, CM(Forge)"
+                    },
+                    {
+                        "name": "Sri GD Dariyani, CM(QFF)"
+                    }
+                ],
+                "rank": 522
+            }
+        ]
+    },
+    {
+        "name": "Overhaul - Quality",
+        "rank": 53,
+        "children": [
+            {
+                "name": "Establishing of Kit marshalling room for rubber sealing kits",
+                "responsibility": "Sri A Karthikeyan, CM(PO)",
+                "rank": 531
+            },
+            {
+                "name": "Establishing of recorder for heating prior to NDT checks",
+                "responsibility": "Sri D Mirdha, SM(Shops)",
+                "rank": 532
+            }
+        ]
+    },
+    {
+        "name": "Laboratory",
+        "rank": 54,
+        "children": [
+            {
+                "name": "Procurement of Automatic % elongation measuring machine",
+                "responsibility": "Dr-ing. SK rout, CM(Lab)",
+                "rank": 541
+            },
+            {
+                "name": "Procurement of digital X-ray machine with CR system",
+                "responsibility": "Sri CR Nath, SM(Lab)",
+                "rank": 542
+            },
+            {
+                "name": "Obtaining BARC approval for X-ray Machines",
+                "responsibility": "Sri CR Nath, SM(Lab)",
+                "rank": 543
+            }
+        ]
+    },
+    {
+        "name": "General",
+        "rank": 6,
+        "children": [
+            {
+                "name": "imparting training and certification of inspectors for NDT level-II",
+                "responsibility": "Sri P Mallick, SM(insp)",
+                "rank": 61
+            },
+            {
+                "name": "Imparting training and certification for NDT level-III",
+                "responsibility": [
+                    {
+                        "name": "Sri P Mallick, SM(insp)"
+                    },
+                    {
+                        "name": "Sri Sambi Swain, Mgr(Insp)"
+                    }
+                ],
+                "rank": 6.2
+            }
+        ]
+    },
+    {
+        "name": "OUT Sourcing",
+        "rank": 6
+    },
+    {
+        "name": "Design",
+        "rank": 7,
+        "children": [
+            {
+                "name": "Indigenisation",
+                "responsibility": "",
+                "rank": 71
+            }
+        ]
+    },
+    {
+        "name": "Maintenance",
+        "rank": 8,
+        "children": [
+            {
+                "name": "Mechnical/Transport",
+                "responsibility": "",
+                "rank": 81
+            },
+            {
+                "name": "CIVIL",
+                "responsibility": "",
+                "rank": 82
+            },
+            {
+                "name": "Tree plantation inside township and surrounding.",
+                "responsibility": "CM(W)/ SM(W)",
+                "rank": 83
+            },
+            {
+                "name": "Beautification of Division's Township",
+                "responsibility": "CM(W)/ SM(W)/ CM(Maint)",
+                "rank": 84
+            }
+        ]
+    },
+    {
+        "name": "HR",
+        "rank": 9,
+        "children": [
+            {
+                "name": "CSR ISSUE",
+                "responsibility": "",
+                "rank": 91
+            },
+            {
+                "name": "Committee and meeting schedule",
+                "responsibility": "",
+                "rank": 92
+            },
+            {
+                "name": "DIFFERENT FUNCTIONS TO BE OBSERVED AT HAL,KORAPUT (2024-25)",
+                "responsibility": "",
+                "rank": 93
+            },
+            {
+                "name": "Town administrative issue",
+                "responsibility": "",
+                "rank": 94,
+                "children": [
+                    {
+                        "name": "Improvement task"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "IT",
+        "rank": 10,
+        "children": [
+            {
+                "name": "Plan of IT"
+            }
+        ]
+    },
+    {
+        "name": "Method",
+        "rank": 11
+    },
+    {
+        "name": "Business Development / Export Issues",
+        "rank": 12,
+        "children": [
+            {
+                "name": "ANTICIPATED SALES THROUGH EXPORT",
+                "responsibility": "",
+                "rank": 121
+            },
+            {
+                "name": "Brief of Activities of Business Development & Project Group",
+                "responsibility": "",
+                "rank": 122
+            }
+        ]
+    },
+    {
+        "name": "Hospital",
+        "rank": 13,
+        "responsibility": "COMS-(H)"
+    },
+    {
+        "name": "MSD",
+        "rank": 14,
+        "responsibility": ""
+    },
+    {
+        "name": "SMART TOWNSHIP",
+        "rank": 15,
+        "children": [
+            {
+                "name": "DPE Guidelines for Mini Smart Cities/Township(15 Points)",
+                "responsibility": "",
+                "rank": 151
+            },
+            {
+                "name": "Electrical project",
+                "responsibility": "",
+                "rank": 152
+            },
+            {
+                "name": "Civil Projects ",
+                "responsibility": "",
+                "rank": 153
+            },
+            {
+                "name": "IT/Security Projects ",
+                "responsibility": "",
+                "rank": 154,
+                "children": [
+                    {
+                        "name": "Present status"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "CRITICAL Issue/challenges",
+        "rank": 16,
+        "responsibility": ""
+    },
+    {
+        "name": "Security & fire improvement plan",
+        "rank": 17,
+        "responsibility": "AGM(S/F)"
+    }
+]
