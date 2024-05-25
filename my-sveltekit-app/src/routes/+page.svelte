@@ -15,15 +15,7 @@
 	onMount(fetchData);
   </script>
   
-  <style>
-	@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
-  
-	body {
-	  font-family: 'Montserrat', sans-serif;
-	  background-color: #f6f6ff;
-	  color: #020508;
-	}
-  
+  <style>  
 	.card {
 	  background-color: #f3f7fd;
 	  color: #111417;
@@ -37,7 +29,7 @@
   
   <h1 class="h-20 flex items-center justify-center bg-gray-900 text-gray-200 text-3xl">PERSPECTIVE PLAN</h1>
   <div class="container mx-auto px-4 py-8">
-	<div class="grid grid-cols-1 gap-4">
+	<div class="grid grid-cols-2 gap-4">
 	  {#each data as item}
 		<div class="card rounded-lg shadow-md p-4">
 		  <h2 class="text-lg font-semibold mb-2">{item.name}</h2>

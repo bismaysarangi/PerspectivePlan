@@ -1,18 +1,15 @@
 <script>
-	import Header from './Header.svelte';
 	import './styles.css';
 	import '../app.css';
 </script>
 
 <div class="app">
-	<Header />
 
 	<main>
 		<slot />
 	</main>
 
 	<footer>
-		<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
 	</footer>
 </div>
 
@@ -29,8 +26,8 @@
 		flex-direction: column;
 		padding: 1rem;
 		width: 100%;
-		max-width: 64rem;
-		margin: 0 auto;
+		/* max-width: 64rem; */
+		/* margin: 0 auto; */
 		box-sizing: border-box;
 	}
 
